@@ -23,6 +23,9 @@ function Menu() {
                             <NavLink className={"nav-link active"} to="/">Home</NavLink>
                         </li>
                         <li>
+                            <NavLink className={"nav-link active"} to="/product">Product</NavLink>
+                        </li>
+                        <li>
                             <NavLink className={"nav-link active"} to="/login">Login</NavLink>
                         </li>
                         <NavDropdown title="Link" id="navbarScrollingDropdown">

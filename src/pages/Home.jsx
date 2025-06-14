@@ -4,7 +4,6 @@ import Menu from '../layouts/Menu';
 function Home() {
     return (
         <>
-            <Menu />
             <HomeBanner />
         </>
     )

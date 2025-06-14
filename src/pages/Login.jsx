@@ -8,7 +8,6 @@ import Menu from '../layouts/Menu';
 function Login() {
     return (
         <>
-            <Menu />
             <Container>
                 <Row>
                     <Form style={{ width: 500 }}>
